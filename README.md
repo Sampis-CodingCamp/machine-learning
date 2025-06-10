@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk membangun sebuah model klasifikasi sampah berbasis ma
 Struktur proyek ini terorganisir dengan baik untuk memandu Anda melalui setiap langkah pengembangan model.
 
 ```
-├── **S♻️MPIS**/
+├── S♻️MPIS/
 │   ├── Import Semua Packages/Libraries
 ├── Data Preparation/
 │   ├── Data Loading
