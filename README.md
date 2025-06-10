@@ -11,14 +11,14 @@ Struktur proyek ini terorganisir dengan baik untuk memandu Anda melalui setiap l
 ├── Data Preparation/
 │   ├── Data Loading
 │   ├── Data Preprocessing
-│   │   └── Split Dataset
+│       └── Split Dataset
 ├── Modelling
 ├── Evaluasi dan Visualisasi
-├── Konversi Model/
-│   ├── Saved Model
-│   ├── TFJS
-│   ├── TF-Lite
-│   └── Inference (Optional)
+└── Konversi Model/
+    ├── Saved Model
+    ├── TFJS
+    ├── TF-Lite
+    └── Inference (Optional)
 ```
 
 ## Penjelasan Singkat:
